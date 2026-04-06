@@ -1,0 +1,27 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Python caching & artifacts
+__pycache__/
+*.py[cod]
+*.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDEs
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Project specific
+results/*.csv
+results/*.txt
+data/*.txt
